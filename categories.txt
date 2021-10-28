@@ -1,0 +1,19 @@
+Inc- Salary
+Inc- Business
+Inc- Returns from 
+Inc- House rents
+Exp- Medical
+Exp- Grocery
+Exp- Outside Dinning
+Exp- Utility
+Exp- Mobile phone bill
+Exp- Shopping/ Online Shopping
+Exp- Regular subscription
+Exp- Education
+Exp- House rent
+Exp- Fees for kids
+Exp- Insurance
+Exp- Fines
+Exp- Car
+Exp- Travel
+Exp- Other Expenses
